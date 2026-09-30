@@ -1,2 +1,3 @@
 Hello! I am learning Git and GitHub.
 This is my first Git practice repository.
+I successfully pushed my first project to GitHub.
